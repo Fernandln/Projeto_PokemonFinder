@@ -1,0 +1,23 @@
+.buscador {
+    margin: 22px;
+    text-align: center;
+    
+    
+}
+
+.buscador .cabecalho  {
+    max-height: ;
+    background-color: #1b53ba ;
+    margin: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    
+}
+.buscador .cabecalho .texto {
+    background-color: #ffffffe1;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 16px rgba(0,0,10, 0.30);
+}
