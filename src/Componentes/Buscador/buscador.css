@@ -1,23 +1,61 @@
 .buscador {
-    margin: 22px;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    
+}
+
+
+.buscador h1 {
+    flex-direction: column;
+    display: flex;
     
 }
 
 .buscador .cabecalho  {
-    max-height: ;
+    
     background-color: #1b53ba ;
-    margin: 22px;
     display: flex;
     justify-content: center;
-    align-items: center;
     border-radius: 5px;
+    box-shadow: 8px 8px 16px rgba(0,0,10, 0.30);
     
 }
 .buscador .cabecalho .texto {
     background-color: #ffffffe1;
-    padding: 5px;
+    margin: 18px;
+    padding: 10px 50px;
     border-radius: 5px;
     box-shadow: 8px 8px 16px rgba(0,0,10, 0.30);
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+*/

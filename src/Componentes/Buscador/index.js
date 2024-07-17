@@ -37,7 +37,7 @@ const Buscador = (props) => {
     
 
     return (
-      <section className='buscador'>
+      <div className='buscador'>
         <h1>Pokemon da busca</h1>
           <div className='cabecalho'>
             <div>
@@ -49,7 +49,7 @@ const Buscador = (props) => {
               <div className='texto'>Tipo: {tipo2}</div>
             </div>
           </div>
-      </section>
+      </div>
     );
   };
 
