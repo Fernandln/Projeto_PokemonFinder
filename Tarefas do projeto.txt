@@ -1,7 +1,0 @@
-Coisas a resolver:
-
-* Fazer um map para o tipo ser impresso com a quantidade correta de tipos sem quebrar o codigo
-(do jeito que esta feito hoje caso o pokemon não tenha 2 tipos quebra a tela)
-* Corrigir tamanho do container que segura o pokemon
-(a cor de fundo está tomando a tela toda, o correto eh ser igual o formulario)
-
